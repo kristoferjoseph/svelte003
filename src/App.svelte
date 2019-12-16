@@ -10,9 +10,9 @@
 
 <style>
   h1 {
-    color: purple;
+    color: red;
   }
 </style>
 
 <h1>{message}</h1>
-<h2>Change me!</h2>
+<h2>Changed!</h2>
