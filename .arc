@@ -1,14 +1,11 @@
-# Warning: do not edit
-# --------------------
-# This is a generated file and will be overwritten
-
 @app
-begin-app
+stars-ui8
 
 @static
 
 @http
 get /api
+get /yolo
 
 @tables
 data
