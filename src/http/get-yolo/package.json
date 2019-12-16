@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-yolo",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
