@@ -1,0 +1,7 @@
+{
+  "name": "begin-app-get-weee",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin/data": "latest"
+  }
+}
