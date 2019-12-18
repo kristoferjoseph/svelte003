@@ -6,7 +6,6 @@ stars-ui8
 @http
 get /api
 get /yolo
-get /weee
 
 @tables
 data
